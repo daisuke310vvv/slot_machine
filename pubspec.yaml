@@ -1,0 +1,16 @@
+name: slot_machine
+description: A simple, but customizable slot machine.
+version: 0.0.1
+homepage: https://github.com/daisuke310vvv/slot_machine
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
