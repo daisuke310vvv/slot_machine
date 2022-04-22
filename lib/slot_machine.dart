@@ -1,4 +1,4 @@
-library slot_machine;
+library flutter_slot_machine;
 
 import 'dart:async';
 import 'dart:math';

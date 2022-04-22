@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  slot_machine:
+  flutter_slot_machine:
     path: ../
 
 
